@@ -8,10 +8,14 @@
 4. Lancez le bot avec la commande `node index.js`, ou `node .`.
 5. Invitez le bot sur votre serveur discord.
 6. Exectuez la commande `/ticket-setup` pour configurer le message de création de ticket.
+
 Et voilà, votre bot est prêt à être utilisé !
 
 # Commandes
 - `/ticket-setup` : Configure le message de création de ticket.
+
+# Support & Aide
+Si vous avez besoin d'aide ou de support, vous pouvez rejoindre mon serveur discord [ici](https://discord.gg/A5NDrh6Wxb).
 
 # Configuration
 ```js
@@ -69,7 +73,11 @@ module.exports = new config()
 # Crédits / Contributions
 - [NoahPrm](https://github.com/noahprm) - Développeur du bot
 - [discord.js](https://discord.js.org) - Librairie utilisée pour le développement du bot
+
 Vous aussi vous pouvez contribuer à ce projet en créant une pull request ou en ouvrant une issue!
 
 # License
 Ce projet est sous license MIT - voir le fichier [LICENSE](https://github.com/NoahPrm/ticket-bot/blob/main/LICENSE) pour plus d'informations.
+
+# Repository Views
+<img src="https://prv-readme-views.dpip.lol?id=ticket-bot">
