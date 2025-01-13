@@ -131,3 +131,10 @@ dist
 
 # IntelliJ IDEAs
 .idea/
+
+# Others
+*.rar
+*.zip
+*.gz
+*.tar
+*.7z
