@@ -21,6 +21,9 @@
 <br/>
 </div>
 
+### Vues du Repository
+<img src="https://prv-readme-views.dpip.lol?id=ticket-bot">
+
 # Installation
 1. Téléchargez le code source du bot [disponible ici](https://github.com/NoahPrm/ticket-bot/releases/latest).
 2. Installez les dépendances avec la commande `npm install`.
@@ -99,9 +102,6 @@ module.exports = new config()
 - [discord.js](https://discord.js.org) - Librairie utilisée pour le développement du bot
 
 Vous aussi vous pouvez contribuer à ce projet en créant une pull request ou en ouvrant une issue!
-
-# Vues du Repository
-<img src="https://prv-readme-views.dpip.lol?id=ticket-bot">
 
 # License
 Ce projet est sous license MIT - voir le fichier [LICENSE](https://github.com/NoahPrm/ticket-bot/blob/main/LICENSE) pour plus d'informations.
