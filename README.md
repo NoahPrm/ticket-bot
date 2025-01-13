@@ -31,15 +31,15 @@
 
 Et voilà, votre bot est prêt à être utilisé !
 
-# Exemples
-
-![Example 1](readme_assets/example1.png)
-
 # Commandes
 - `/ticket-setup` : Configure le message de création de ticket.
 
 # Support & Aide
 Si vous avez besoin d'aide ou de support, vous pouvez rejoindre mon serveur discord [ici](https://discord.gg/A5NDrh6Wxb).
+
+# Exemples
+
+![Example 1](readme_assets/example1.png)
 
 # Configuration
 ```js
