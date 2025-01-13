@@ -31,6 +31,10 @@
 
 Et voilà, votre bot est prêt à être utilisé !
 
+# Exemples
+
+![Example 1](readme_assets/example1.png)
+
 # Commandes
 - `/ticket-setup` : Configure le message de création de ticket.
 
