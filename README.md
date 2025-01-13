@@ -100,8 +100,8 @@ module.exports = new config()
 
 Vous aussi vous pouvez contribuer à ce projet en créant une pull request ou en ouvrant une issue!
 
+# Vues du Repository
+<img src="https://prv-readme-views.dpip.lol?id=ticket-bot">
+
 # License
 Ce projet est sous license MIT - voir le fichier [LICENSE](https://github.com/NoahPrm/ticket-bot/blob/main/LICENSE) pour plus d'informations.
-
-# Repository Views
-<img src="https://prv-readme-views.dpip.lol?id=ticket-bot">
