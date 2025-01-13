@@ -1,5 +1,25 @@
-# Discord.js v14 - Ticket Bot
-> Un bot discord de gestion des tickets simple, faciler à utiliser & rapide à configurer.
+<div align="center">
+
+<a href="https://noahprm.tech" style="display: block; text-align: center;">
+  <img alt="" src="readme_assets/banner.png" />
+  <h1 align="center">Ticket Bot</h1>
+</a>
+
+</div>
+<p align="center">
+  Gestion des tickets simple, facile à utiliser & rapide à configurer.
+</p>
+
+<p align="center">
+  <a href="https://noahprm.tech"><strong>NoahPrm</strong></a> ·
+    <a href="https://discord.gg/A5NDrh6Wxb"><strong>Discord</strong></a> ·
+    <a href="https://fluxbot.eu"><strong>FluxBot</strong></a> ·
+    <a href="https://github.com/noahprm/ticket-bot"><strong>Main Repository</strong></a> ·
+    <a href="https://github.com/NoahPrm/ticket-bot/blob/main/LICENSE"><strong>License</strong></a> ·
+    <a href="https://github.com/NoahPrm/ticket-bot/releases/tag/latest"><strong>Last Release</strong></a> 
+</p>
+<br/>
+</div>
 
 # Installation
 1. Téléchargez le code source du bot [disponible ici](https://github.com/NoahPrm/ticket-bot/releases/latest).
